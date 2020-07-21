@@ -1,2 +1,9 @@
 
 .DS_Store
+/.idea/$CACHE_FILE$
+/.idea/.gitignore
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/wg2-seismic-dl.iml
